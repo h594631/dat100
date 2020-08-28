@@ -2,7 +2,7 @@ package programmeringsoppgave1;
 
 import static javax.swing.JOptionPane.*;
 
-public class Oppgave7 {
+public class Oppgave5 {
 
 	public static void main(String[] args) {
 		// a) Les inn poengsum (heltall), skriv ut karakter A-F

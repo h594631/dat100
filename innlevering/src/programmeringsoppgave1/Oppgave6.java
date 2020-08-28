@@ -2,7 +2,7 @@ package programmeringsoppgave1;
 
 import static javax.swing.JOptionPane.*;
 
-public class Oppgave8 {
+public class Oppgave6 {
 	
 	public static int fakultet(int n) {
 		if (n <= 1) {

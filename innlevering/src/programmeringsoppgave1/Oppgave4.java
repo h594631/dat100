@@ -2,7 +2,7 @@ package programmeringsoppgave1;
 
 import static javax.swing.JOptionPane.*;
 
-public class Oppgave6 {
+public class Oppgave4 {
 
 	public static void main(String[] args) {
 		/* Trinnskatt:
