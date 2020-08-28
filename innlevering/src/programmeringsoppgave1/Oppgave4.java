@@ -38,18 +38,4 @@ public class Oppgave4 {
 		}
 		showMessageDialog(null, "Trinnskatt: " + (int)trinnskatt );
 	}
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
