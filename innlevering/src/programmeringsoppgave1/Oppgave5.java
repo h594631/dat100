@@ -17,10 +17,7 @@ public class Oppgave5 {
 			}
 			
 			String karakter = "Karakter: ";
-			if (poengsum < 0 || poengsum > 100) {
-				karakter = "Ugyldig poengsum! Tallet må være fra null til hundre.";
-			}
-			else if (poengsum > 89) {
+			if (poengsum > 89) {
 				karakter += "A";
 			}
 			else if (poengsum > 79) {
